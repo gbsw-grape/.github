@@ -8,7 +8,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# StackMaster Team GRAPE 
-<img src="https://github.com/gbsw-grape/.github/assets/133763382/dbc177ba-1411-4ce2-8547-020f8096cbaf" width="80px" align="right"/>
+<div align="center">
 
-
+  ## StudyWatch [gbsw-grape]
+  ```성홍제``` ```김채환``` ```이현석``` ```장준혁```
+</div>
