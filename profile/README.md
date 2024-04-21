@@ -10,7 +10,7 @@
 -->
 <div align="center">
 
-  ## StudyWatch [gbsw-grape]
+  ## StudyWatch [grape]
   ### Stack Master Team 4
   #### [성홍제](https://github.com/806gw) [장준혁](https://github.com/myagmb28) [이현석](https://github.com/lhswsbry) [김채환](https://github.com/alvin081105)
 </div>
