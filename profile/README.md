@@ -9,8 +9,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 <div align="center">
-
-  ## StudyWatch [grape]
-  ### Stack Master Team 4
-  #### [성홍제](https://github.com/806gw) [장준혁](https://github.com/myagmb28) [이현석](https://github.com/lhswsbry) [김채환](https://github.com/alvin081105)
+  
+  ### [성홍제](https://github.com/806gw) / [장준혁](https://github.com/myagmb28) / [이현석](https://github.com/lhswsbry) / [김채환](https://github.com/alvin081105)
 </div>
