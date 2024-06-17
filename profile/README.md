@@ -10,7 +10,7 @@
 -->
 <div align="center">
   
-## 스터디 타이머 : 공부를 계획있게
+## 스터디 타이머 : 공부를 가치있게
 <div align="center">
   
   ### [성홍제](https://github.com/806gw) ㅣ [장준혁](https://github.com/myagmb28) ㅣ [이현석](https://github.com/lhswsbry) ㅣ [김채환](https://github.com/alvin081105)
